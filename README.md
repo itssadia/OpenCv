@@ -1,1 +1,1 @@
-This is a face detection project using OpenCv python.For checking the application run the code in jupyter notebook or colab.
+This is a face detection project using OpenCv python.For checking the application run the code in jupyter notebook or colab.The image used here has been uploaded.Download it in your system before running the code.
